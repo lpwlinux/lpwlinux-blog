@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Let's play with Linux"
+theme = 'hugo-coder'
