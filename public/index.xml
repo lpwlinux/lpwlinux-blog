@@ -20,7 +20,7 @@
       <link>http://localhost:1313/posts/first-intro/</link>
       <pubDate>Thu, 15 Feb 2024 23:50:56 +0200</pubDate>
       <guid>http://localhost:1313/posts/first-intro/</guid>
-      <description>Hello world! The first necessary post in a tech blog! My name is Konstantinos, I&amp;rsquo;m a junior-ish system administrator, currently working in a devops role. My pursuit is to get a better understanding of Linux, networking, all the apps that are used in the space that make our lives easier plus everything else that seems interesting to me!&#xA;The idea behind this blog (subject to change though) is to have posts of varying difficulty, ranging from easy and everyday stuff, basic operations to make our life simpler, to medium where we will delve in setting up applications and harder to bring multiple systems together with technologies such as containers etc.</description>
+      <description>Hello world! The first necessary post in a tech blog! My name is Konstantinos, I&amp;rsquo;m an SRE and open source enthusiast. My pursuit is to get a better understanding of Linux, networking, build a cool homelab and last but not least document everything and help anyone i can along the way!&#xA;Hope to see you around!</description>
     </item>
   </channel>
 </rss>
