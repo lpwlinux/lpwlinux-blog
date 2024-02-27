@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2024-02-16T20:06:45+02:00
 title = "Ways to access your homelab and/or local network."
 description = ""
