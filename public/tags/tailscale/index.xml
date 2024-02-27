@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/second-proxmox-tailscale/</link>
       <pubDate>Fri, 16 Feb 2024 20:06:45 +0200</pubDate>
       <guid>http://localhost:1313/posts/second-proxmox-tailscale/</guid>
-      <description>The goal of this post is in my opinion the base of the homelab. Having access to all the awesome stuff you set up in the first place. I&amp;rsquo;ll be going over my approach with a focus on being to the point and keeping the cost to a minimum. Since we are talking about a homelab I&amp;rsquo;ll assume there is a container manager in place, proxmox in my case does the job(in general even a desktop or an old laptop will do in order to run tailscale.</description>
+      <description>The goal of this post is to set up the (in my opinion) essence of the homelab, the remote access. Who does not want to have access to all the awesome stuff you set up in the first place?&#xA;I&amp;rsquo;ll be going over my approach focusing on being to the point and keeping the cost to a minimum. Since we are talking about a homelab I&amp;rsquo;ll assume there is a container manager in place, proxmox in my case does the job(in general even a desktop or an old laptop will do in order to run tailscale.</description>
     </item>
   </channel>
 </rss>
