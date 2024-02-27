@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proxmox,tailscale,homelab on Let&#39;s play with Linux</title>
+    <link>http://localhost:1313/tags/proxmoxtailscalehomelab/</link>
+    <description>Recent content in Proxmox,tailscale,homelab on Let&#39;s play with Linux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Feb 2024 20:06:45 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/proxmoxtailscalehomelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ways to access your homelab and/or local network.</title>
+      <link>http://localhost:1313/posts/second-proxmox-tailscale/</link>
+      <pubDate>Fri, 16 Feb 2024 20:06:45 +0200</pubDate>
+      <guid>http://localhost:1313/posts/second-proxmox-tailscale/</guid>
+      <description>This post is going to be about having access to your local network when away. At the moment I&amp;rsquo;ll give my current setup as well as the tools I am using as a general guidline but I will give alternatives, links and a basic concept to follow in case you want to try another approach.</description>
+    </item>
+  </channel>
+</rss>
